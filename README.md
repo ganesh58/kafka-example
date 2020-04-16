@@ -1,6 +1,6 @@
 # kafka-example
 
-# kafka-twitter
+
 
 Custom Kafka Producer and Consumer apps.
 
